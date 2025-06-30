@@ -6,9 +6,15 @@ This plugin is a custom extension developed for Counter-Strike 2 servers. It off
 
 ---
 
+## English
 - ✅ This plugin is a fun command, It is generally used on Turkish servers.
 - ✅ When you type "!kaccm" in the game, it tells you the length of your private area.
 - ✅ The value returned by this plugin ranges between 1 and 50. There is a 70% chance of getting a number between 1 and 15, and a 30% chance of getting a number between 15 and 50. After using the command, there is a 15-second cooldown.
+
+## Turkish
+✅ Bu eklenti bir eğlence komutudur, genellikle Türk sunucularında kullanılır.
+✅ Oyunda "!kaccm" yazdığınızda, özel bölgenizin uzunluğunu söyler.
+✅ Bu eklenti 1 ile 50 arasında bir değer döndürür. 1-15 arası değer gelme olasılığı %70, 15-50 arası ise %30’dur. Komutu kullandıktan sonra 15 saniyelik bir bekleme süresi (cooldown) vardır.
 
 ---
 
