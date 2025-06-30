@@ -4,6 +4,7 @@
 
 This plugin is a custom extension developed for Counter-Strike 2 servers. It offers the following features:
 
+
 ---
 
 ## English
@@ -16,12 +17,14 @@ This plugin is a custom extension developed for Counter-Strike 2 servers. It off
 - ✅ Oyunda "!kaccm" yazdığınızda, özel bölgenizin uzunluğunu söyler.
 - ✅ Bu eklenti 1 ile 50 arasında bir değer döndürür. 1-15 arası değer gelme olasılığı %70, 15-50 arası ise %30’dur. Komutu kullandıktan sonra 15 saniyelik bir bekleme süresi (cooldown) vardır.
 
+
 ---
 
 ## 🧩 Requirements
 
 - Counter-Strike 2 (dedicated server)
 - CounterStrikeSharp
+
 
 ---
 
@@ -49,6 +52,7 @@ To activate:
 - Run the following command in the server console:
 css_plugins load kaccm
 
+
 ---
 
 ## ⚙️ Commands
@@ -56,6 +60,7 @@ css_plugins load kaccm
 | Command    | Description              |
 |------------|--------------------------|
 | `!kaccm`   | Sends a message to chat  |
+
 
 ---
 
