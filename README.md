@@ -40,7 +40,7 @@ This plugin is a custom extension developed for Counter-Strike 2 servers. It off
 
 Place the plugin in the following directory:
 
-_cs2/addons/counterstrikesharp/plugins/_
+- _cs2/addons/counterstrikesharp/plugins/_
 
 
 ### 3) Start / Reload the Plugin
