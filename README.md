@@ -68,4 +68,4 @@ css_plugins load kaccm
 
 Here are some in-game screenshots of the plugin in action:
 
-<p align="center"> <img src="screenshots/hudsay2.png" alt="Kaccm message example" width="600"/> </p>
+<p align="center"> <img src="screenshots/kaccm.png" alt="Kaccm message example" width="600"/> </p>
