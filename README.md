@@ -52,6 +52,14 @@ To activate:
 - Run the following command in the server console:
 css_plugins load kaccm
 
+---
+
+## 📁 Configuration File
+After restarting your server, a configuration file will be automatically generated at:
+
+- _cs2/addons/counterstrikesharp/config/plugins/kaccm/kaccm.json_
+
+- You can make any desired adjustments to this configuration file and customize it to suit your needs.
 
 ---
 
