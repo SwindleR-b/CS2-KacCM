@@ -1,8 +1,0 @@
-{
-  "CooldownMessage": "Too fast! Wait {remainingTime} seconds.",
-  "ResultMessage": "{playerName} - Your Size: {size} CM",
-  "LoadMessage": "Kaccm Plugin loaded!",
-  "UnloadMessage": "Kaccm Plugin unloaded!",
-  "ConfigCreatedMessage": "Config file created: {path}",
-  "LangCreatedMessage": "Language file created: {path}"
-}
