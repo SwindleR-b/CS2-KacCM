@@ -1,8 +1,0 @@
-{
-  "CooldownMessage": "Çok hızlısın! {remainingTime} saniye bekle.",
-  "ResultMessage": "{playerName} - Senin Dalga: {size} CM",
-  "LoadMessage": "Kaccm Plugin yüklendi!",
-  "UnloadMessage": "Kaccm Plugin kaldırıldı!",
-  "ConfigCreatedMessage": "Config dosyası oluşturuldu: {path}",
-  "LangCreatedMessage": "Lang dosyası oluşturuldu: {path}"
-}
