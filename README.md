@@ -1,5 +1,9 @@
 # 🔫 CS2 Plugin - [Kac CM Plugin]
 
+## Discord: https://discord.gg/YmaDNa8kjw
+
+---
+
 ## 📌 Description
 
 This plugin is a custom extension developed for Counter-Strike 2 servers. It offers the following features:
